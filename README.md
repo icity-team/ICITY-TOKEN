@@ -1,2 +1,2 @@
-# ICITY-TOKEN
-ICITY erc20 token 
+# icity-token
+icity erc20 token 
